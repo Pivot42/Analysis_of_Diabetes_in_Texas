@@ -1,0 +1,20 @@
+SeverityScore_Fact and RskMortScore_Fact
+
+0 == Minor
+1 == Moderate
+2 == Major
+3 == Extreme
+
+Race_And_Ethnicity_Fact
+
+0  == American Indian / Eskimo / Aleut and Hispanic or Latino
+1  == American Indian / Eskimo / Aleut and Not Hispanic or Latino
+2  == Asian or Pacific Islander and Hispanic or Latino
+3  == Asian or Pacific Islander and Not Hispanic or Latino
+4  == Black and Hispanic or Latino
+5  == Black and Not Hispanic or Latino
+6  == Other and Hispanic or Latino
+7  == Other and No Ethnicity
+8  == Other and Not Hispanic or Latino
+9  == White and Hispanic or Latino
+10 == White and Not Hispanic or Latino

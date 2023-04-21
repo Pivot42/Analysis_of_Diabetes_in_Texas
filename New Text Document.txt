@@ -1,0 +1,123 @@
+                                                                                                                
+American Indian / Eskimo / Aleut and Not Hispanic or Latino    American Indian / Eskimo / Aleut and Hispanic or Latino
+Asian or Pacific Islander and Hispanic or Latino               American Indian / Eskimo / Aleut and Hispanic or Latino           
+Asian or Pacific Islander and Not Hispanic or Latino           American Indian / Eskimo / Aleut and Hispanic or Latino       
+Black and Hispanic or Latino                                   American Indian / Eskimo / Aleut and Hispanic or Latino                               
+Black and Not Hispanic or Latino                               American Indian / Eskimo / Aleut and Hispanic or Latino                           
+Other and Hispanic or Latino                                   American Indian / Eskimo / Aleut and Hispanic or Latino                               
+Other and No Ethnicity                                         American Indian / Eskimo / Aleut and Hispanic or Latino                                     
+Other and Not Hispanic or Latino                               American Indian / Eskimo / Aleut and Hispanic or Latino                           
+White and Hispanic or Latino                                   American Indian / Eskimo / Aleut and Hispanic or Latino                               
+White and Not Hispanic or Latino                               American Indian / Eskimo / Aleut and Hispanic or Latino                           
+Asian or Pacific Islander and Hispanic or Latino               American Indian / Eskimo / Aleut and Not Hispanic or Latino       
+Asian or Pacific Islander and Not Hispanic or Latino           American Indian / Eskimo / Aleut and Not Hispanic or Latino   
+Black and Hispanic or Latino                                   American Indian / Eskimo / Aleut and Not Hispanic or Latino                           
+Black and Not Hispanic or Latino                               American Indian / Eskimo / Aleut and Not Hispanic or Latino                       
+Other and Hispanic or Latino                                   American Indian / Eskimo / Aleut and Not Hispanic or Latino                           
+Other and No Ethnicity                                         American Indian / Eskimo / Aleut and Not Hispanic or Latino                                 
+Other and Not Hispanic or Latino                               American Indian / Eskimo / Aleut and Not Hispanic or Latino                       
+White and Hispanic or Latino                                   American Indian / Eskimo / Aleut and Not Hispanic or Latino                           
+White and Not Hispanic or Latino                               American Indian / Eskimo / Aleut and Not Hispanic or Latino                       
+Asian or Pacific Islander and Not Hispanic or Latino           Asian or Pacific Islander and Hispanic or Latino              
+Black and Hispanic or Latino                                   Asian or Pacific Islander and Hispanic or Latino                                      
+Black and Not Hispanic or Latino                               Asian or Pacific Islander and Hispanic or Latino                                  
+Other and Hispanic or Latino                                   Asian or Pacific Islander and Hispanic or Latino                                      
+Other and No Ethnicity                                         Asian or Pacific Islander and Hispanic or Latino                                            
+Other and Not Hispanic or Latino                               Asian or Pacific Islander and Hispanic or Latino                                  
+White and Hispanic or Latino                                   Asian or Pacific Islander and Hispanic or Latino                                      
+White and Not Hispanic or Latino                               Asian or Pacific Islander and Hispanic or Latino                                  
+Black and Hispanic or Latino                                   Asian or Pacific Islander and Not Hispanic or Latino                                  
+Black and Not Hispanic or Latino                               Asian or Pacific Islander and Not Hispanic or Latino                              
+Other and Hispanic or Latino                                   Asian or Pacific Islander and Not Hispanic or Latino                                  
+Other and No Ethnicity                                         Asian or Pacific Islander and Not Hispanic or Latino                                        
+Other and Not Hispanic or Latino                               Asian or Pacific Islander and Not Hispanic or Latino                              
+White and Hispanic or Latino                                   Asian or Pacific Islander and Not Hispanic or Latino                                  
+White and Not Hispanic or Latino                               Asian or Pacific Islander and Not Hispanic or Latino                              
+Black and Not Hispanic or Latino                               Black and Hispanic or Latino                                                      
+Other and Hispanic or Latino                                   Black and Hispanic or Latino                                                          
+Other and No Ethnicity                                         Black and Hispanic or Latino                                                                
+Other and Not Hispanic or Latino                               Black and Hispanic or Latino                                                      
+White and Hispanic or Latino                                   Black and Hispanic or Latino                                                          
+White and Not Hispanic or Latino                               Black and Hispanic or Latino                                                      
+Other and Hispanic or Latino                                   Black and Not Hispanic or Latino                                                      
+Other and No Ethnicity                                         Black and Not Hispanic or Latino                                                            
+Other and Not Hispanic or Latino                               Black and Not Hispanic or Latino                                                  
+White and Hispanic or Latino                                   Black and Not Hispanic or Latino                                                      
+White and Not Hispanic or Latino                               Black and Not Hispanic or Latino                                                  
+Other and No Ethnicity                                         Other and Hispanic or Latino                                                                
+Other and Not Hispanic or Latino                               Other and Hispanic or Latino                                                      
+White and Hispanic or Latino                                   Other and Hispanic or Latino                                                          
+White and Not Hispanic or Latino                               Other and Hispanic or Latino                                                      
+Other and Not Hispanic or Latino                               Other and No Ethnicity                                                            
+White and Hispanic or Latino                                   Other and No Ethnicity                                                                
+White and Not Hispanic or Latino                               Other and No Ethnicity                                                            
+White and Hispanic or Latino                                   Other and Not Hispanic or Latino                                                      
+White and Not Hispanic or Latino                               Other and Not Hispanic or Latino                                                  
+White and Not Hispanic or Latino                               White and Hispanic or Latino
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                
+American Indian / Eskimo / Aleut and Not Hispanic or Latino                     -American Indian / Eskimo / Aleut and Hispanic or Latino
+Asian or Pacific Islander and Hispanic or Latino                                -American Indian / Eskimo / Aleut and Hispanic or Latino           
+Asian or Pacific Islander and Not Hispanic or Latino                            -American Indian / Eskimo / Aleut and Hispanic or Latino       
+Black and Hispanic or Latino                                                    -American Indian / Eskimo / Aleut and Hispanic or Latino                               
+Black and Not Hispanic or Latino                                                -American Indian / Eskimo / Aleut and Hispanic or Latino                           
+Other and Hispanic or Latino-American Indian / Eskimo / Aleut and Hispanic or Latino                               
+Other and No Ethnicity-American Indian / Eskimo / Aleut and Hispanic or Latino                                     
+Other and Not Hispanic or Latino-American Indian / Eskimo / Aleut and Hispanic or Latino                           
+White and Hispanic or Latino-American Indian / Eskimo / Aleut and Hispanic or Latino                               
+White and Not Hispanic or Latino-American Indian / Eskimo / Aleut and Hispanic or Latino                           
+Asian or Pacific Islander and Hispanic or Latino-American Indian / Eskimo / Aleut and Not Hispanic or Latino       
+Asian or Pacific Islander and Not Hispanic or Latino-American Indian / Eskimo / Aleut and Not Hispanic or Latino   
+Black and Hispanic or Latino-American Indian / Eskimo / Aleut and Not Hispanic or Latino                           
+Black and Not Hispanic or Latino-American Indian / Eskimo / Aleut and Not Hispanic or Latino                       
+Other and Hispanic or Latino-American Indian / Eskimo / Aleut and Not Hispanic or Latino                           
+Other and No Ethnicity-American Indian / Eskimo / Aleut and Not Hispanic or Latino                                 
+Other and Not Hispanic or Latino-American Indian / Eskimo / Aleut and Not Hispanic or Latino                       
+White and Hispanic or Latino-American Indian / Eskimo / Aleut and Not Hispanic or Latino                           
+White and Not Hispanic or Latino-American Indian / Eskimo / Aleut and Not Hispanic or Latino                       
+Asian or Pacific Islander and Not Hispanic or Latino-Asian or Pacific Islander and Hispanic or Latino              
+Black and Hispanic or Latino-Asian or Pacific Islander and Hispanic or Latino                                      
+Black and Not Hispanic or Latino-Asian or Pacific Islander and Hispanic or Latino                                  
+Other and Hispanic or Latino-Asian or Pacific Islander and Hispanic or Latino                                      
+Other and No Ethnicity-Asian or Pacific Islander and Hispanic or Latino                                            
+Other and Not Hispanic or Latino-Asian or Pacific Islander and Hispanic or Latino                                  
+White and Hispanic or Latino-Asian or Pacific Islander and Hispanic or Latino                                      
+White and Not Hispanic or Latino-Asian or Pacific Islander and Hispanic or Latino                                  
+Black and Hispanic or Latino-Asian or Pacific Islander and Not Hispanic or Latino                                  
+Black and Not Hispanic or Latino-Asian or Pacific Islander and Not Hispanic or Latino                              
+Other and Hispanic or Latino-Asian or Pacific Islander and Not Hispanic or Latino                                  
+Other and No Ethnicity-Asian or Pacific Islander and Not Hispanic or Latino                                        
+Other and Not Hispanic or Latino-Asian or Pacific Islander and Not Hispanic or Latino                              
+White and Hispanic or Latino-Asian or Pacific Islander and Not Hispanic or Latino                                  
+White and Not Hispanic or Latino-Asian or Pacific Islander and Not Hispanic or Latino                              
+Black and Not Hispanic or Latino-Black and Hispanic or Latino                                                      
+Other and Hispanic or Latino-Black and Hispanic or Latino                                                          
+Other and No Ethnicity-Black and Hispanic or Latino                                                                
+Other and Not Hispanic or Latino-Black and Hispanic or Latino                                                      
+White and Hispanic or Latino-Black and Hispanic or Latino                                                          
+White and Not Hispanic or Latino-Black and Hispanic or Latino                                                      
+Other and Hispanic or Latino-Black and Not Hispanic or Latino                                                      
+Other and No Ethnicity-Black and Not Hispanic or Latino                                                            
+Other and Not Hispanic or Latino-Black and Not Hispanic or Latino                                                  
+White and Hispanic or Latino-Black and Not Hispanic or Latino                                                      
+White and Not Hispanic or Latino-Black and Not Hispanic or Latino                                                  
+Other and No Ethnicity-Other and Hispanic or Latino                                                                
+Other and Not Hispanic or Latino-Other and Hispanic or Latino                                                      
+White and Hispanic or Latino-Other and Hispanic or Latino                                                          
+White and Not Hispanic or Latino-Other and Hispanic or Latino                                                      
+Other and Not Hispanic or Latino-Other and No Ethnicity                                                            
+White and Hispanic or Latino-Other and No Ethnicity                                                                
+White and Not Hispanic or Latino-Other and No Ethnicity                                                            
+White and Hispanic or Latino-Other and Not Hispanic or Latino                                                      
+White and Not Hispanic or Latino-Other and Not Hispanic or Latino                                                  
+White and Not Hispanic or Latino-White and Hispanic or Latino                                                      
